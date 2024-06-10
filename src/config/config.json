@@ -1,9 +1,9 @@
 {
-  "name": "KASUIEの主页✨",
+  "name": "HTTの主页✨",
   "favicon": "/favicon.ico",
   "domain": "https://remio-home.vercel.app",
-  "keywords": "remio,rem,mio,C.C.,KASUIEの次元,KASUIE的个人博客,KASUIE,个人主页,主页,个人记录,技术博客,个人生活",
-  "description": "KASUIEの次元，兴趣至上，内容随缘，个人主页",
+  "keywords": "remio,rem,mio,C.C.,HTTの次元,HTT的个人博客,HTT,个人主页,主页,个人记录,技术博客,个人生活",
+  "description": "HTTの次元，兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
     "src": "https://cdn.jsdelivr.net/gh/pixlips/picx-images-hosting@master/web/kasuie_new.5du9br5ow240.webp",
     "size": 128,
@@ -34,9 +34,9 @@
     "autoAnimate": true
   },
   "footer": {
-    "text": "© 2020 - 2024 By KASUIE",
-    "url": "https://kasuie.cc",
-    "ICP": "ICP备xxxxxxxx号",
+    "text": "© 2020 - 2024 By HTT",
+    "url": "https://05160715.xyz",
+    "ICP": "ICP备浙-ICP60092099号",
     "direction": "col-reverse",
     "isExternal": true
   },
@@ -46,51 +46,39 @@
     {
       "title": "qq",
       "color": "#dfba00",
-      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=793752494",
+      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=695302843",
       "icon": "qq"
     },
     {
       "title": "telegram",
       "color": "#1da1f2",
-      "url": "https://t.me/PixivLips",
+      "url": "https://t.me/WSHTZDG",
       "icon": "telegram"
     },
     {
       "title": "github",
       "color": "#000000",
-      "url": "https://github.com/kasuie",
+      "url": "https://github.com/HTT0715",
       "icon": "github"
     },
     {
       "title": "twitter",
       "color": "#1da1f2",
-      "url": "https://twitter.com/kasuie3",
+      "url": "https://twitter.com/Tim519644173576",
       "icon": "twitter"
     },
     {
       "title": "email",
       "color": "#fd3232",
-      "url": "mailto:i@kasuie.cc",
+      "url": "mailto:yubo1456@gmail.com",
       "icon": "email"
-    },
-    {
-      "title": "steam",
-      "color": "#000000",
-      "url": "https://s.team/p/fhwd-fwbn/NWWVGPJV",
-      "icon": "steam"
-    },
-    {
-      "title": "bilibili",
-      "color": "#0088cc",
-      "url": "https://space.bilibili.com/85447052",
-      "icon": "bilibili"
     }
   ],
   "sites": [
     {
       "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://kasuie.cc",
+      "title": "HTTの次元",
+      "url": "homepage.05160715.xyz",
       "desc": "博客主页"
     },
     {
@@ -101,9 +89,9 @@
     },
     {
       "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "KASUIEのAI",
-      "url": "https://ai.kasuie.cc",
-      "desc": "ChatGPT"
+      "title": "HTTのAI",
+      "url": "bing.05160715.xyz",
+      "desc": "Copilot-proxy"
     },
     {
       "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
@@ -119,15 +107,15 @@
     },
     {
       "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "监控服务",
-      "url": "https://status.kasuie.cc/status",
-      "desc": "服务程序监控"
+      "title": "Riolu.443|精靈學院监控服务",
+      "url": "http://139.159.161.88:3001/status/riolurs",
+      "desc": "Riolu服务监控"
     },
     {
       "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEのDocs",
-      "url": "https://docs.kasuie.cc",
-      "desc": "文档服务"
+      "title": "Bigme|大米加速监控服务",
+      "url": "http://123.207.66.230:3001/status/sla",
+      "desc": "大米服务监控"
     },
     {
       "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
@@ -139,42 +127,6 @@
       "title": "喜好生成表",
       "url": "https://like.kasuie.cc",
       "desc": "个人喜好生成表"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://hexo.kasuie.cc",
-      "desc": "Hexo版本博客程序"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v3.kasuie.cc",
-      "desc": "上版本的博客程序(服务关了"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v2.kasuie.cc",
-      "desc": "早期博客主题(v2)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v1.kasuie.cc",
-      "desc": "早期博客主题(v1)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v0.kasuie.cc",
-      "desc": "早期博客主题(v0)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
-      "title": "KASUIEの导航",
-      "url": "https://pixlips.github.io",
-      "desc": "导航页(beta)"
     }
   ],
   "sitesConfig": {
@@ -190,56 +142,23 @@
   "sliders": {
     "data": [
       {
-        "title": "JavaScript/TypeScript",
-        "value": 70,
+        "title": "Python",
+        "value": 65,
         "icon": "qq"
       },
       {
-        "title": "CSS/CSS3",
-        "value": 70,
-        "icon": "qq"
-      },
-      {
-        "title": "React",
+        "title": "HTML",
         "value": 40,
         "icon": "qq"
       },
       {
-        "title": "Vue",
-        "value": 60,
+        "title": "Linux",
+        "value": 40,
         "icon": "qq"
       },
       {
-        "title": "Next.js",
-        "value": 50
-      },
-      {
-        "title": "Nuxt.js",
-        "value": 20
-      },
-      {
-        "title": "Three.js",
-        "value": 10
-      },
-      {
-        "title": "Node.js",
-        "value": 30
-      },
-      {
-        "title": "Electron",
-        "value": 5
-      },
-      {
-        "title": "Spring Boot",
-        "value": 40
-      },
-      {
-        "title": "Linux",
+        "title": "TRSS-bot",
         "value": 60
-      },
-      {
-        "title": "Mysql",
-        "value": 55
       },
       {
         "title": "Docker",
